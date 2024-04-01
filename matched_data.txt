@@ -1,0 +1,27 @@
++----+--------------------+---------+---------------+--------------+-------------+
+|    | Financial_sanction | Log_GDP | Log_inflation | Log_exchange |   Log_FDI   |
++----+--------------------+---------+---------------+--------------+-------------+
+| 0  |         0          |   Low   |     High      |     Low      | 9.427815438 |
+| 1  |         0          |   Low   |     High      |     Low      | 9.454433228 |
+| 2  |         0          |   Low   |     High      |     Low      | 9.540808561 |
+| 3  |         0          |   Low   |     High      |     Low      | 9.899198151 |
+| 4  |         0          | Medium  |    Medium     |     Low      | 10.18760503 |
+| 5  |         0          | Medium  |     High      |     Low      | 10.19055719 |
+| 6  |         0          | Medium  |    Medium     |     Low      | 10.57512743 |
+| 7  |         0          |  High   |    Medium     |     Low      | 10.74720728 |
+| 8  |         0          |  High   |     High      |     Low      | 10.87380236 |
+| 9  |         0          |  High   |     High      |     Low      | 10.5632805  |
+| 10 |         0          |  High   |    Medium     |     Low      | 10.63515971 |
+| 11 |         0          |  High   |    Medium     |     Low      | 10.74102255 |
+| 12 |         0          |  High   |      Low      |     Low      | 10.70404373 |
+| 13 |         0          |  High   |    Medium     |     Low      | 10.84022463 |
+| 14 |         1          |  High   |    Medium     |    Medium    | 10.34304091 |
+| 15 |         1          |  High   |     High      |     High     | 9.835878831 |
+| 16 |         1          |  High   |    Medium     |     High     | 10.51240287 |
+| 17 |         1          |  High   |      Low      |     High     | 10.45571927 |
+| 18 |         1          |  High   |      Low      |     High     | 9.94373435  |
+| 19 |         1          |  High   |      Low      |     High     | 10.50480743 |
+| 20 |         1          |  High   |      Low      |     High     | 9.976753818 |
+| 21 |         1          |  High   |    Medium     |     High     | 10.60691842 |
+| 22 |         1          |  High   |     High      |     High     |    10.6     |
++----+--------------------+---------+---------------+--------------+-------------+
